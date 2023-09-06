@@ -14,3 +14,4 @@ mv -r website-boilerplate toms-website
 mv -recursive website-boilerplate toms-website
 mv --help
 cp -r website-boilerplate toms-website
+ls --color=auto
