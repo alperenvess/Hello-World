@@ -1,2 +1,3 @@
 echo I made this boilerplate >> README.md
 echo from the command line >> README.md
+more README.md
